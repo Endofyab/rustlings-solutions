@@ -1,5 +1,6 @@
-# Exercise to Book Chapter mapping
+# rustlings-solutions
 
+Solutions to the Rustlings exercises 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
 | variables              | §3.1                |
@@ -25,4 +26,4 @@
 | macros                 | §19.6               |
 | clippy                 | §21.4               |
 | conversions            | n/a                 |
-# rustlings-solutions
+
